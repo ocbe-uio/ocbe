@@ -1,0 +1,15 @@
+Package: ocbe
+Title: Miscellaneous Functions from the Oslo Centre for Biostatistics and Epidemiology
+Version: 0.0.0.9000
+Authors@R: 
+    person(
+        given = "Waldir",
+        family = "Leoncio",
+        role = c("aut", "cre"),
+        email = "w.l.netto@medisin.uio.no"
+    )
+Description: Functions for data analysis of potential interest to OCBE members 
+    as well as the general scientific community.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true

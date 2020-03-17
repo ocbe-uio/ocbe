@@ -15,3 +15,5 @@ The development version of `ocbe` can be installed by running the following in a
 ```r
 remotes::install_github("ocbe-uio/ocbe")
 ```
+
+After installing the package, you can load it with `library("ocbe")`. For a list of currently-implemented functions, run `help("ocbe")` afterwards.
